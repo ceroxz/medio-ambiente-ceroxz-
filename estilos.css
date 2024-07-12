@@ -1,0 +1,131 @@
+body{
+  background-image: url(0.JPG);
+}
+.caution {
+  margin-top: 20px;
+  text-align: center;
+  width: 900x;
+  border: solid aquamarine 10px; 
+  border-radius: 0 100px 0 100px;
+  background-color: lightcyan;
+}
+.img1{
+  margin-top: 5%;
+  margin-left:10%;
+  height: 280px;
+  width: 350px;
+  border-radius: 100px;
+}
+.img2{
+  padding: 30px 20px 15px 30px;
+  margin-top: 5%;
+  margin-left: 10%;
+  height: 280px;
+  width: 340px;
+  border-radius: 100px; 
+}
+.tabla {
+  color: white;
+  text-align: right;
+  border-radius: 0 100px 0 100px;
+  background-color: darkolivegreen ;
+  margin-left: 9%;
+  padding: 100px;
+  border: solid greenyellow;
+  width: 600px;
+  height: 120px;
+}
+.styletable{
+  text-align: start;
+  display: grid;
+  place-items: center;
+  width: 600px;
+  height: 270px;
+  margin-top: -90px;
+}
+.parent{
+display: grid;
+place-items: center;
+width: 320px;
+height: 100px;
+margin-top: -16px;
+}
+h2{
+  padding-top: 30px;
+  padding-left: 20px;
+  margin: auto;
+  border-radius: 10px;
+  text-align: center;
+  color: white;
+  background-color: grey;
+  width: 320px;
+  height: 100px;
+}
+.p1{
+  padding: 10px;
+  margin-top: 2%;
+  margin-left: 4%;
+  width: 860px;
+  background-color: lightsalmon;
+  border-radius: 10px;
+}
+.h3{
+  border-radius: 10px;
+  background-color: gray;
+  margin-left: 15%;
+  margin-top: 5%;
+  color: white;
+  width: 690px;
+  text-align: center;
+}
+.p3{
+  padding: 10px;
+  border-radius: 10px;
+  background-color: lightgoldenrodyellow;
+  margin-top: 2%;
+  margin-left: 4%;
+  width: 880px;
+}
+hr{
+  border-top: 10px;
+  background-color: green;
+  border-radius: 40px;
+width: 870px;
+height: 15px;
+}
+.p2{
+  padding: 10px;
+  margin-top: 2%;
+  margin-left: 4%;
+  width: 880px;
+  background-color: lightgreen;
+  border-radius: 10px;
+}
+.img3{
+  margin-top: 5%;
+  margin-left: 10%;
+  height: 280px;
+  width: 200;
+  border-radius: 0 280px 280px 0;
+}
+.img4{
+  margin-top: 5%;
+  margin-left: 10%;
+  height: 280px;
+  width: 200;
+  border-radius: 80px;
+}
+.img6{
+  margin-top: 5%;
+  margin-left: 5%;
+  height: 280px;
+  width: 300;
+  border-radius: 80px;
+}
+.img5{
+  margin-top: 5%;
+  margin-left: 5%;
+  height: 250px;
+  width:370px;
+  border-radius: 80px;
+}
