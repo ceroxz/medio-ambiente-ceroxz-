@@ -2,9 +2,12 @@ body{
   background-image: url(0.JPG);
 }
 .caution {
-  margin-top: 20px;
+  display: grid;
+  place-items: center;
+  margin: auto;
   text-align: center;
-  width: 900x;
+  width: 700px;
+  height: 250px;
   border: solid aquamarine 10px; 
   border-radius: 0 100px 0 100px;
   background-color: lightcyan;
